@@ -1,4 +1,4 @@
->Hey, do you have <a href="https://en.wikipedia.org/wiki/Multitier_architecture#Three-tier_architecture" target="_blank">3-tier application</a> and you want **globaly improve performance by up to 99%** and **save expensive database storage up to 99%**? I bet – yes, so download <a href="DbArchive.pdf" target="_blank">this documentation</a> and read about [How DBArchive Solution Works] on pages 7-9.
+>Hey, do you have <a href="https://en.wikipedia.org/wiki/Multitier_architecture#Three-tier_architecture" target="_blank">3-tier application</a> and you want **globaly improve performance by up to 99%** and **save expensive database storage up to 99%**? I bet – yes, so go for <a href="DbArchive.pdf" target="_blank">this documentation</a> and read about [How DBArchive Solution Works] on pages 7-9.
 
 >Want to know more about what **additional busines values** you can get from this solution? No problem, look at <a href="DbArchive.pdf" target="_blank">page 19</a> and read section [DBArchive Delivers Business Value].
 
@@ -13,6 +13,6 @@ Solution main points:
 
 Resources:
 1. Full documentation is <a href="DbArchive.pdf" target="_blank">here</a>
-2. Demo is <<here>>
+2. Recorded demo is <<here>>
 
 > All bits of DBArchive solution are looking forward.
