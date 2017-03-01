@@ -1,4 +1,4 @@
-> Hey, do you want improve your <a href="https://en.wikipedia.org/wiki/Multitier_architecture#Three-tier_architecture" target="_blank">3-tier application</a> performance  by up to 99% and save huge (up to 99%) amounts of expensive storage? I bet – yes, so download and read this <document> sections #1, #2 about how Database Archiving solution “DbArchive“works.
+> Hey, do you want improve your <a href="https://en.wikipedia.org/wiki/Multitier_architecture#Three-tier_architecture" target="_blank">3-tier application</a> performance  by up to 99% and save huge (up to 99%) amounts of expensive storage? I bet – yes, so [download and read this document](DbArchive.pdf) sections #1, #2 about how Database Archiving solution “DbArchive“works.
 
 > Want to know more about what additional Busines Values you can get from this solution? No problem, look at the same <document> section: DBArchive Delivers Business value on page 19.
 
@@ -11,8 +11,8 @@ Quick reference:
 4. Prepared demo contains related 23 tables filled with random data sets. By provided “2 years and older” archiving filter and after completed first iteration we can see increased database execution performance by 99% and database storage space gained by 99%;
 5. All presented numbers are related to my workstation hardware specifics. These specifics are listed in the last section of documentation.
 
-> All bits of DBArchive solution are looking forward.
-
 Resources:
 1. Full documentation is <here>
 2. Demo is <here>
+
+> All bits of DBArchive solution are looking forward.
