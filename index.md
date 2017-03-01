@@ -1,8 +1,8 @@
-Hey, do you want improve your 3-tier application performance by up to 99% and save huge (up to 99%) amounts of expensive storage? I bet – yes, so download and read this <document> sections #1, #2 about how Database Archiving solution “DbArchive“works.
+> Hey, do you want improve your 3-tier application performance by up to 99% and save huge (up to 99%) amounts of expensive storage? I bet – yes, so download and read this <document> sections #1, #2 about how Database Archiving solution “DbArchive“works.
 
-Want to know more about what additional Busines Values you can get from this solution? No problem, look at the same <document> section: DBArchive Delivers Business value on page 19.
+> Want to know more about what additional Busines Values you can get from this solution? No problem, look at the same <document> section: DBArchive Delivers Business value on page 19.
 
-And you more likely want a real thing, not papers – we think the same. I’ve recorded DBArchive solution demo for you. So, do not wait any longer, click and see how everything plays together.  Demo: <link>
+> And you more likely want a real thing, not papers – we think the same. I’ve recorded DBArchive solution demo for you. So, do not wait any longer, click and see how everything plays together.  Demo: <link>
 
 Quick reference:tgy
 1.	DbArchive solution stands for dynamic, granular historical data move process (archiving) and improved global application performance. More solution capabilities could be found here, in section Overview and page 3;
