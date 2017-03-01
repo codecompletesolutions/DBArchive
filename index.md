@@ -1,8 +1,8 @@
->Hey, do you want improve your <a href="https://en.wikipedia.org/wiki/Multitier_architecture#Three-tier_architecture" target="_blank">3-tier application</a> performance  by up to 99% and save huge (up to 99%) amounts of expensive storage? I bet – yes, so <a href="DbArchive.pdf" target="_blank">download documentation</a> and read about [How DBArchive Solution Works] on pages 7-9.
+>Hey, you have <a href="https://en.wikipedia.org/wiki/Multitier_architecture#Three-tier_architecture" target="_blank">3-tier application</a> and you want **globaly improve performance by up to 99%** and **save expensive storage up to 99%**? I bet – yes, so <a href="DbArchive.pdf" target="_blank">download documentation</a> and read about [How DBArchive Solution Works] on pages 7-9.
 
 >Want to know more about what **additional busines values** you can get from this solution? No problem, look at <a href="DbArchive.pdf" target="_blank">page 19</a> and read section [DBArchive Delivers Business Value].
 
->And you more likely want a real thing, not papers – we think the same. I’ve recorded DBArchive solution demo for you. So, do not wait any longer, click and see **how everything plays together** in <a href="DbArchive.pdf" target="_blank">demo</a>
+>And you more likely want a real thing, not papers – we think the same. I’ve recorded DBArchive solution demo for you. So, do not wait any longer, **click** and see **how everything plays together** in <a href="DbArchive.pdf" target="_blank">demo</a>
 
 Quick reference:
 1. DbArchive solution stands for dynamic, granular historical data move process (archiving) and improved global application performance. More solution capabilities could be found here, in section Overview and page 3;
