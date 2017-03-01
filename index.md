@@ -1,8 +1,8 @@
->Hey, do you have <a href="https://en.wikipedia.org/wiki/Multitier_architecture#Three-tier_architecture" target="_blank">3-tier application</a> and you want **globaly improve performance by up to 99%** and **save expensive database storage up to 99%**? <a href="https://en.wikipedia.org/wiki/Captain_Obvious" target="_blank">Captain obvious</a>, I bet – yes! If am right then go for <a href="DbArchive.pdf" target="_blank">this documentation</a> and read about [How DBArchive Solution Works] on pages 7-9.
+>Hey, do you have <a href="https://en.wikipedia.org/wiki/Multitier_architecture#Three-tier_architecture" target="_blank">3-tier application</a> and you want **globaly improve performance by up to 99%** and **save expensive database storage up to 99%**? <a href="https://en.wikipedia.org/wiki/Captain_Obvious" target="_blank">Captain obvious</a>, I bet – yes! If am right then go for <a href="DbArchive.pdf" target="_blank">this documentation</a> and read about [How DBArchive Solution Works] at pages 7-9.
 
 >Want to know more about what **additional busines values** you can get? No problem, look at <a href="DbArchive.pdf" target="_blank">page 19</a> and read section [DBArchive Delivers Business Value].
 
->And you more likely want a visual confirmation, not reading papers – we think the same! I’ve recorded <a href="DbArchive.pdf" target="_blank">demo</a> for you, so do not wait any longer, <a href="DbArchive.pdf" target="_blank">**click**</a> and see **how everything plays together.**
+>And you more likely want a visual confirmation, not reading papers – we think the same! I’ve recorded <a href="DbArchive.pdf" target="_blank">demo</a> for you, so do not wait any longer <a href="DbArchive.pdf" target="_blank">**click**</a> and see **how everything plays together.**
 
 Solution main points:
 1. **Term.** DbArchive solution stands for dynamic, granular historical data move process (archiving) and improved global application performance. More solution capabilities could be found <a href="DbArchive.pdf" target="_blank">here</a>, in section [Overview] at page 3;
