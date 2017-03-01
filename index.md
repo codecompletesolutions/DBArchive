@@ -9,7 +9,7 @@ Quick solution references:
 2. **TOP priorities.** In Production and without inactive historical data all benefits like user experience or expensive resource savings improves too. These are the top priorities of DBArchive solution;
 3. **Resources.** DbArchive intentionally was developed to be simple yet powerful solution which uses as minimum resource as possible in client side;
 4. **Demo.** Solution demo contains related 23 tables filled with random data sets. By provided “2 years and older” archiving filter and after completed first iteration we can see **increased database execution performance by 99% and database storage space gained by 99%;**
-5. **Results.**. All presented numbers are related to my workstation hardware specifics. These specifics are listed in the last section of <a href="DbArchive.pdf" target="_blank">documentation</a>.
+5. **Results.** All presented numbers are related to my workstation hardware specifics. These specifics are listed in the last section of <a href="DbArchive.pdf" target="_blank">documentation at page 21.</a>
 
 Resources:
 1. Full documentation is <a href="DbArchive.pdf" target="_blank">here</a>
