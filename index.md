@@ -13,6 +13,6 @@ Solution key points:
 
 Resources:
 1. Full documentation is <a href="DbArchive.pdf" target="_blank">here</a>
-2. Demo is <a href="DbArchive.pdf" target="_blank">here</a>
+2. Demo is <<here>>
 
 > All bits of DBArchive solution are looking forward.
