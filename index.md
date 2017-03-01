@@ -1,4 +1,4 @@
-> Hey, do you want improve your <a href="https://en.wikipedia.org/wiki/Multitier_architecture#Three-tier_architecture" target="_blank">3-tier application</a> performance  by up to 99% and save huge (up to 99%) amounts of expensive storage? I bet – yes, so <a href="DbArchive.pdf" target="_blank">download documentation</a> and read pages 7-9 about *How DBArchive Solution Works.*
+> Hey, do you want improve your <a href="https://en.wikipedia.org/wiki/Multitier_architecture#Three-tier_architecture" target="_blank">3-tier application</a> performance  by up to 99% and save huge (up to 99%) amounts of expensive storage? I bet – yes, so <a href="DbArchive.pdf" target="_blank">download documentation</a> and read about [How DBArchive Solution Works] in pages 7-9.
 
 > Want to know more about what additional Busines Values you can get from this solution? No problem, look at the same <document> section: DBArchive Delivers Business value on page 19.
 
