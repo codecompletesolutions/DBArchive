@@ -4,7 +4,7 @@
 
 >And you more likely want a visual confirmation, not reading papers – we think the same. I’ve recorded DBArchive solution demo for you. So, do not wait any longer, <a href="DbArchive.pdf" target="_blank">**click**</a> and see **how everything plays together** in <a href="DbArchive.pdf" target="_blank">this demo.</a>
 
-Solution key points:
+Solution main points:
 1. **Term.** DbArchive solution stands for dynamic, granular historical data move process (archiving) and improved global application performance. More solution capabilities could be found here, in section Overview and page 3;
 2. **TOP priorities.** In Production and without inactive historical data all benefits like user experience or expensive resource savings improves too. These are the top priorities of DBArchive solution;
 3. **Resources.** DbArchive intentionally was developed to be simple yet powerful solution which uses as minimum resource as possible in client side;
