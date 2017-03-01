@@ -2,7 +2,7 @@
 
 >Want to know more about what **additional busines values** you can get from this solution? No problem, look at <a href="DbArchive.pdf" target="_blank">page 19</a> and read section [DBArchive Delivers Business Value].
 
->And you more likely want a visual confirmation, not reading papers – we think the same. I’ve recorded DBArchive solution demo for you. So, do not wait any longer, <a href="DbArchive.pdf" target="_blank">**click**</a> and see **how everything plays together** in <a href="DbArchive.pdf" target="_blank">demo.</a>
+>And you more likely want a visual confirmation, not reading papers – we think the same. I’ve recorded DBArchive solution demo for you. So, do not wait any longer, <a href="DbArchive.pdf" target="_blank">**click**</a> and see **how everything plays together** in <a href="DbArchive.pdf" target="_blank">this demo.</a>
 
 Quick reference:
 1. DbArchive solution stands for dynamic, granular historical data move process (archiving) and improved global application performance. More solution capabilities could be found here, in section Overview and page 3;
@@ -12,7 +12,7 @@ Quick reference:
 5. All presented numbers are related to my workstation hardware specifics. These specifics are listed in the last section of documentation.
 
 Resources:
-1. Full documentation is <here>
-2. Demo is <here>
+1. Full documentation is <a href="DbArchive.pdf" target="_blank">here</a>
+2. Demo is <a href="DbArchive.pdf" target="_blank">here</a>
 
 > All bits of DBArchive solution are looking forward.
