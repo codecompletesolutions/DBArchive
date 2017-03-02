@@ -17,4 +17,4 @@ Resources:
 
 > All bits of DBArchive solution are looking forward.
 
-**Contacts: ** <a href="https://www.linkedin.com/in/tomasmalukas" target="_blank">LinkedIn</a> or <a href="mailto:tomas.malukas.work@gmail.com?Subject=DBArchive" target="_top">e-mail</a>
+**Contacts:** <a href="https://www.linkedin.com/in/tomasmalukas" target="_blank">LinkedIn</a> or <a href="mailto:tomas.malukas.work@gmail.com?Subject=DBArchive" target="_top">e-mail</a>
