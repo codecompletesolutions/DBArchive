@@ -16,3 +16,5 @@ Resources:
 2. Recorded demo is <<here>>
 
 > All bits of DBArchive solution are looking forward.
+
+Contacts: [LinkedIn](https://www.linkedin.com/in/tomasmalukas/), [email](tomas.malukas.work@gmail.com)
