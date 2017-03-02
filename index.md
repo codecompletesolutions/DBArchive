@@ -6,7 +6,7 @@
 
 Solution main points:
 1. **Term.** DbArchive solution stands for dynamic, granular historical data move process (archiving) and improved global application performance. More solution capabilities could be found in white paper section [Overview] at <a href="DbArchive.pdf" target="_blank">page 3</a>;
-2. **TOP priorities.** Production database without inactive historical data generates all types of benefits such as better user experience and expensive resource savings. These are the top priorities of DBArchive solution;
+2. **TOP priorities.** Production database without inactive historical data generates all types of benefits such as better user experience, global performance improvement and expensive resource savings. These are the top priorities of DBArchive solution;
 3. **Resources.** DbArchive intentionally was developed to be simple yet powerful solution which uses as minimum resource as possible in client side;
 4. **Demo.** Solution demo contains related 23 tables filled with random data sets (total records 12 million). By provided “2 years and older” archiving filter and after completed first iteration we can see **increased database query execution performance by 99% and database storage space gained by 99%;**
 5. **Results.** All presented numbers are related to my workstation hardware specifics. These specifics are listed in the last section of white paper at <a href="DbArchive.pdf" target="_blank">page 21.</a>
