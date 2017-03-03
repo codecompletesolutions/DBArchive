@@ -28,3 +28,14 @@ Resources:
   <input type="text" name="lastname">
   <input type="submit" value="Submit">
 </form>
+
+<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSdxFXptkRN-XmTMZH__Aafl7SSDO_BxzC1WGNxxmeP5x0kRig/viewform?entry.1021670594=Your+Naser+alsdkfj&entry.202572800=Last+Name+alsdkfja+sldfj" target="hidden_iframe" onsubmit="submitted=true;">
+  First name:<br>
+  <input type="text" name="entry.810989529" id="entry.810989529"><br>
+  Last name:<br>
+  <input type="text" name="entry.463380756" id="entry.463380756">
+  <input type="submit" value="Submit">
+</form>
+
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+
