@@ -23,7 +23,7 @@ Resources:
   <br/>
   <textarea placeholder="Comment" name="entry.207423772" id="entry.207423772" cols="41" rows="10"></textarea>
   <br/>
-  <input type="submit" value="Send Message1123456" id="SubmitButton">
+  <input type="submit" value="Send Message11234567" id="SubmitButton">
   <input type="reset" value="Reset">
 </form>
 
