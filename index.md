@@ -22,7 +22,7 @@ Resources:
 
 <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLScejPiq9yLj1hyQjFAkQCLBaZhAE_lLcitoONIr5FO0Ib6j8g/formResponse" target="hidden_iframe" onsubmit="submitted=true;">
   <input type="text" name="entry.1175739595" id="entry.1175739595" placeholder="Name"> <input type="text" placeholder="Email" name="entry.2257992040" id="entry.2257992040"><br/>
-  <input type="text" placeholder="Comment" name="entry.20742377" id="entry.20742377" style="width: 10px; padding: 2px; border: 1px solid black">
+  <input type="text" placeholder="Comment" name="entry.20742377" id="entry.20742377" style="width: 100px;">
 <br/>
   <input type="submit" value="Submit">
 </form>
