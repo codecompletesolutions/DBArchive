@@ -36,4 +36,8 @@ $('#gform').on('submit', function(e) {
   $('#entry.207423772').text('Thank You! Your Comment Has Been Submitted Successfully.');
   $(':input[type="submit"]').prop('disabled', true);
 });
+
+$('#gform').on('reset', function(e) {
+  $(':input[type="submit"]').prop('disabled', false);
+});
 </script>
