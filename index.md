@@ -25,7 +25,6 @@ Resources:
   <br/>
   <input type="submit" value="Send Message11234">
   <input type="reset" value="Reset">
-  <input type="text" placeholder="Status" name="Status" id="Status" value="Init">
 </form>
 
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
@@ -34,6 +33,6 @@ Resources:
 <script type="text/javascript">
 $('#gform').on('submit', function(e) {
   
-  $('#Status').val('Your submission has been processed...');
+  $('#entry.207423772').val('Thank You!<br\>Your Comment Has Been Submitted Successfully.');
 });
 </script>
