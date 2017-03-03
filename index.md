@@ -19,12 +19,11 @@ Resources:
 > All bits of DBArchive solution are looking forward.
 
 **Contact** me via <a href="https://www.linkedin.com/in/tomasmalukas" target="_blank">LinkedIn</a>, <a href="mailto:tomas.malukas.work@gmail.com?Subject=DBArchive" target="_top">e-mail</a> or send a comment
-
 <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLScejPiq9yLj1hyQjFAkQCLBaZhAE_lLcitoONIr5FO0Ib6j8g/formResponse" target="hidden_iframe" onsubmit="submitted=true;">
-  <input type="text" name="entry.1175739595" id="entry.1175739595" placeholder="Name"> <input type="text" placeholder="Email" name="entry.2257992040" id="entry.2257992040"><br/>
-
+  <input type="text" name="entry.1175739595" id="entry.1175739595" placeholder="Name"> <input type="text" placeholder="Email" name="entry.2257992040" id="entry.2257992040">
+  <br/>
   <textarea placeholder="Comment2" name="entry.20742377" id="entry.20742377" cols="43" rows="10"></textarea>
-<br/>
+  <br/>
   <input type="submit" value="Send Message">
 </form>
 
