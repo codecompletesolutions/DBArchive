@@ -29,7 +29,7 @@ Resources:
 
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
 <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
-<script type="text/javascript">var submitted=false;</script>
+<script type="text/javascript">var submitted=false;$('textarea#entry.207423772').html('Thank You! Your Comment Has Been Submitted Successfully.');</script>
 <script type="text/javascript">
 $('#gform').on('submit', function(e) {  
   $('textarea#entry.207423772').html('Thank You! Your Comment Has Been Submitted Successfully.');
