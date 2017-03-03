@@ -34,10 +34,6 @@ Resources:
 $('#gform').on('submit', function(e) {
   
   $('#entry.207423772').text('Thank You! Your Comment Has Been Submitted Successfully.');
-  
-  $('#SubmitButton').style.display ='none';
-  setTimeout (function(){
-      $('#SubmitButton').style.display ='inline';        
-    },5000);
+  $(':input[type="submit"]').prop('disabled', true);
 });
 </script>
