@@ -23,7 +23,7 @@ Resources:
   <br/>
   <textarea placeholder="Comment" name="entry.207423772" id="entry.207423772" cols="41" rows="10"></textarea>
   <br/>
-  <input type="submit" value="Send Message11234567" id="SubmitButton">
+  <input type="submit" value="Send Message" id="SubmitButton">
   <input type="reset" value="Reset">
 </form>
 
@@ -33,6 +33,7 @@ Resources:
 <script type="text/javascript">
 $('#gform').on('submit', function(e) {  
   $('#entry.207423772').val('Thank You! Your Comment Has Been Submitted Successfully.');
+  $('#entry.207423772').text('Thank You! Your Comment Has Been Submitted Successfully.');
   $(':input[type="submit"]').prop('disabled', true);
 });
 
