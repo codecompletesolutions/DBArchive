@@ -21,7 +21,7 @@ Resources:
 **Contacts:** <a href="https://www.linkedin.com/in/tomasmalukas" target="_blank">LinkedIn</a> or <a href="mailto:tomas.malukas.work@gmail.com?Subject=DBArchive" target="_top">e-mail</a>
 
 <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLScejPiq9yLj1hyQjFAkQCLBaZhAE_lLcitoONIr5FO0Ib6j8g/formResponse" target="hidden_iframe" onsubmit="submitted=true;">
-  Name:<input type="text" name="entry.1175739595" id="entry.1175739595"> Email: <input type="text" name="entry.2257992040" id="entry.2257992040"><br/>
+  <input type="text" name="entry.1175739595" id="entry.1175739595" placeholder="ExampleDomain"> Email: <input type="text" name="entry.2257992040" id="entry.2257992040"><br/>
   <input type="text" name="entry.20742377" id="entry.20742377">
   <input type="submit" value="Submit">
 </form>
