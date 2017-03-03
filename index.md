@@ -21,7 +21,7 @@ Resources:
 <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLScejPiq9yLj1hyQjFAkQCLBaZhAE_lLcitoONIr5FO0Ib6j8g/formResponse" target="hidden_iframe" onsubmit="submitted=true;">
   <input type="text" placeholder="Name" name="entry.1175739595" id="entry.1175739595" size="30"> <input type="text" placeholder="Email" name="entry.225799204" id="entry.225799204" size="46">
   <br/>
-  <textarea placeholder="Enter your comment" name="entry.207423772" id="entry.207423772" cols="60" rows="10"></textarea>
+  <textarea placeholder="Enter your comment1" name="entry.207423772" id="entry.207423772" cols="60" rows="10"></textarea>
   <br/>
   <input type="submit" value="Send Message" id="SubmitButton">
   <input type="reset" value="Reset">
@@ -34,10 +34,8 @@ Resources:
 <script type="text/javascript">var submitted=false;</script>
 <script type="text/javascript">
 $('#gform').on('submit', function(e) {  
-  $('textarea').val('Thank You! Your Comment Has Been Submitted Successfully.');
-  
   $(':input[type="submit"]').prop('disabled', true);
-  $('#case').style.visibility='visible';
+  $('#case').style.visibility='block';
 });
 
 $('#gform').on('reset', function(e) {
