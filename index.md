@@ -23,8 +23,10 @@ Resources:
   <br/>
   <textarea placeholder="Comment" name="entry.207423772" id="entry.207423772" cols="41" rows="10"></textarea>
   <br/>
-  <input type="submit" value="Send Message112">
+  <input type="submit" value="Send Message1123">
 </form>
+
+<input type="text" placeholder="Status" name="Status" id="Status" value="Init">
 
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
 <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
@@ -32,6 +34,6 @@ Resources:
 <script type="text/javascript">
 $('#gform').on('submit', function(e) {
   
-  $('#gform').append('<br\>Your submission has been processed...').fadeOut(5000);
-  });
+  $('#Status').val('Your submission has been processed...');
+});
 </script>
