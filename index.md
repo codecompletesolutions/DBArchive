@@ -20,9 +20,9 @@ Resources:
 
 **Contact** me via <a href="https://www.linkedin.com/in/tomasmalukas" target="_blank">LinkedIn</a>, <a href="mailto:tomas.malukas.work@gmail.com?Subject=DBArchive" target="_top">e-mail</a> or send a comment
 <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLScejPiq9yLj1hyQjFAkQCLBaZhAE_lLcitoONIr5FO0Ib6j8g/formResponse" target="hidden_iframe" onsubmit="submitted=true;">
-  <input type="text" name="entry.1175739595" id="entry.1175739595" placeholder="Name"> <input type="text" placeholder="Email" name="entry.2257992040" id="entry.2257992040">
+  <input type="text" placeholder="Name" name="entry.1175739595" id="entry.1175739595"> <input type="text" placeholder="Email" name="entry.225799204" id="entry.225799204">
   <br/>
-  <textarea placeholder="Comment" name="entry.20742377" id="entry.20742377" cols="41" rows="10"></textarea>
+  <textarea placeholder="Comment" name="entry.207423772" id="entry.207423772" cols="41" rows="10"></textarea>
   <br/>
   <input type="submit" value="Send Message1">
 </form>
