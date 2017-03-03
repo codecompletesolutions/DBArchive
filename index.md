@@ -34,12 +34,7 @@ Resources:
     <td>
     <textarea placeholder="Enter your comment11" name="entry.207423772" id="entry.207423772" cols="60" rows="10" required></textarea>
     </td>
-  </tr>
-  <tr>
-    <td>
-    <input type="text" id="case" name="myText" style="display:none">
-    </td>
-  </tr>
+  </tr>  
 </table>
   <input type="submit" value="Send Message" id="SubmitButton">
   <input type="reset" value="Reset">  
@@ -50,7 +45,8 @@ Resources:
 <script type="text/javascript">
 $('#gform').on('submit', function(e) {  
   $(':input[type="submit"]').prop('disabled', true);
-  $('#case').style.visibility='block';
+  
+  alert('Thank You! Your Comment Has Been Submitted Successfully.');
 });
 $('#gform').on('reset', function(e) {
   $(':input[type="submit"]').prop('disabled', false);
