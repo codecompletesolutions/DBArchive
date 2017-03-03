@@ -52,7 +52,6 @@ $('#gform').on('submit', function(e) {
   $(':input[type="submit"]').prop('disabled', true);
   $('#case').style.visibility='block';
 });
-
 $('#gform').on('reset', function(e) {
   $(':input[type="submit"]').prop('disabled', false);
 });
