@@ -20,12 +20,10 @@ Resources:
 
 **Contacts:** <a href="https://www.linkedin.com/in/tomasmalukas" target="_blank">LinkedIn</a> or <a href="mailto:tomas.malukas.work@gmail.com?Subject=DBArchive" target="_top">e-mail</a>
 
-
+https://docs.google.com/forms/d/e/1FAIpQLScejPiq9yLj1hyQjFAkQCLBaZhAE_lLcitoONIr5FO0Ib6j8g/viewform?entry.1175739595=NNN&entry.225799204=EEEEE&entry.207423772=MMMMM
 <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSdxFXptkRN-XmTMZH__Aafl7SSDO_BxzC1WGNxxmeP5x0kRig/formResponse" target="hidden_iframe" onsubmit="submitted=true;">
-  First name:<br>
-  <input type="text" name="entry.1021670594" id="entry.1021670594"><br>
-  Last name:<br>
-  <input type="text" name="entry.202572800" id="entry.202572800">
+  Name:<input type="text" name="entry.1175739595" id="entry.1175739595"> Email: <input type="text" name="entry.2257992040" id="entry.2257992040"><br/>
+  <input type="text" name="entry.20742377" id="entry.20742377">
   <input type="submit" value="Submit">
 </form>
 
