@@ -33,7 +33,7 @@ Resources:
 <script type="text/javascript">
 $('#gform').on('submit', function(e) {
   
-  $('#entry.207423772').text('Thank You!<br\>Your Comment Has Been Submitted Successfully.');
+  $('#entry.207423772').text('Thank You! Your Comment Has Been Submitted Successfully.');
   
   $('#SubmitButton').style.display ='none';
   setTimeout (function(){
