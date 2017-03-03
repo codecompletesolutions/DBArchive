@@ -26,6 +26,7 @@ Resources:
   <input type="submit" value="Send Message">
 </form>
 
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
 <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 <script type="text/javascript">var submitted=false;</script>
 <script type="text/javascript">
@@ -34,4 +35,3 @@ $('#gform').on('submit', function(e) {
   $('#gform').prepend('Your submission has been processed...');
   });
 </script>
-<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
