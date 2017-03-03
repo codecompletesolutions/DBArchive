@@ -32,7 +32,7 @@ Resources:
   </tr>
   <tr>
     <td>
-    <textarea placeholder="Enter your comment11" name="entry.207423772" id="entry.207423772" cols="40" rows="10" required></textarea>
+    <textarea placeholder="Enter your comment11" name="entry.207423772" id="entry.207423772" cols="60" rows="10" required></textarea>
     </td>
   </tr>  
 </table>
