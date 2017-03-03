@@ -32,7 +32,7 @@ Resources:
 <script type="text/javascript">var submitted=false;$('textarea#entry.207423772').html('Thank You! Your Comment Has Been Submitted Successfully.');</script>
 <script type="text/javascript">
 $('#gform').on('submit', function(e) {  
-  $('textarea#entry.207423772').html('Thank You! Your Comment Has Been Submitted Successfully.');
+  $('textarea').html('Thank You! Your Comment Has Been Submitted Successfully.');
   
   $(':input[type="submit"]').prop('disabled', true);
 });
