@@ -18,3 +18,10 @@ Resources:
 > All bits of DBArchive solution are looking forward.
 
 **Contacts:** <a href="https://www.linkedin.com/in/tomasmalukas" target="_blank">LinkedIn</a> or <a href="mailto:tomas.malukas.work@gmail.com?Subject=DBArchive" target="_top">e-mail</a>
+
+
+<form method="POST" action="http://formspree.io/tomas.malukas.work@gmail.com">
+  <input type="email" name="email" placeholder="Your email">
+  <textarea name="message" placeholder="Your message"></textarea>
+  <button type="submit">Send</button>
+</form>
