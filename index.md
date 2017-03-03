@@ -41,12 +41,9 @@ Resources:
     </td>
   </tr>
 </table>
-
   <input type="submit" value="Send Message" id="SubmitButton">
   <input type="reset" value="Reset">  
 </form>
-
-
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"></iframe>
 <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 <script type="text/javascript">var submitted=false;</script>
