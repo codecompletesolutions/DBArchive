@@ -25,7 +25,9 @@ Resources:
   <br/>
   <input type="submit" value="Send Message" id="SubmitButton">
   <input type="reset" value="Reset">
+  <input type="text" id="case" name="myText" style="display:none">
 </form>
+
 
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"></iframe>
 <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
@@ -35,6 +37,7 @@ $('#gform').on('submit', function(e) {
   $('textarea').val('Thank You! Your Comment Has Been Submitted Successfully.');
   
   $(':input[type="submit"]').prop('disabled', true);
+  $('#case').style.visibility='visible';
 });
 
 $('#gform').on('reset', function(e) {
