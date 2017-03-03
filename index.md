@@ -23,10 +23,10 @@ Resources:
   <br/>
   <textarea placeholder="Comment" name="entry.207423772" id="entry.207423772" cols="41" rows="10"></textarea>
   <br/>
-  <input type="submit" value="Send Message1123">
+  <input type="submit" value="Send Message11234">
+  <input type="reset" value="Reset">
+  <input type="text" placeholder="Status" name="Status" id="Status" value="Init">
 </form>
-
-<input type="text" placeholder="Status" name="Status" id="Status" value="Init">
 
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
 <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
