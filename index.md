@@ -32,6 +32,6 @@ Resources:
 <script type="text/javascript">
 $('#gform').on('submit', function(e) {
   $('#gform *').fadeOut(2000);
-  $('#gform').append('Your submission has been processed1...');
+  $('#gform').append('<br\>Your submission has been processed1...');
   });
 </script>
