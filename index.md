@@ -22,10 +22,10 @@ Resources:
 <table>
   <tr>
     <td>
-    <input type="text" placeholder="Name" name="entry.1175739595" id="entry.1175739595" size="40" required>
+    <input type="text" placeholder="Name" name="entry.1175739595" id="entry.1175739595" size="30" required>
     </td>
     <td>
-    <input type="email" placeholder="Email" name="entry.225799204" id="entry.225799204" size="40" required>
+    <input type="email" placeholder="Email" name="entry.225799204" id="entry.225799204" size="30" required>
     </td>
   </tr>
   <tr colspan="2">
