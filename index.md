@@ -1,4 +1,3 @@
-<meta name="referrer" content="origin">
 >Hey, do you have <a href="https://en.wikipedia.org/wiki/Multitier_architecture#Three-tier_architecture" target="_blank">3-tier application</a> and you want **globaly improve performance by up to 99%** and **save expensive database storage up to 99%**? I bet – yes! Wait... 99% improvement and globally? - "No way, cannot be true!". Well, let me prove that this is real - go for <a href="DbArchive.pdf" target="_blank">this white paper</a> and read about [How DBArchive Solution Works] at <a href="DbArchive.pdf" target="_blank">pages 7-9.</a>
 
 >Want to know more about what **additional business values** you can get? No problem, look at <a href="DbArchive.pdf" target="_blank">page 19</a> and read section [DBArchive Delivers Business Value].
@@ -27,5 +26,12 @@ Resources:
   <input type="submit" value="Send Message">
 </form>
 
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script type="text/javascript">var submitted=false;</script>
+<script type="text/javascript">
+$('#gform').on('submit', function(e) {
+  $('#gform *').fadeOut(2000);
+  $('#gform').prepend('Your submission has been processed...');
+  });
+</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
-
