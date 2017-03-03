@@ -24,13 +24,11 @@ Resources:
     <td>
     <input type="text" placeholder="Name" name="entry.1175739595" id="entry.1175739595" size="40" required>
     </td>
-  </tr>
-  <tr>
     <td>
     <input type="email" placeholder="Email" name="entry.225799204" id="entry.225799204" size="40" required>
     </td>
   </tr>
-  <tr>
+  <tr colspan="2">
     <td>
     <textarea placeholder="Enter your comment11" name="entry.207423772" id="entry.207423772" cols="60" rows="10" required></textarea>
     </td>
