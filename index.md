@@ -17,11 +17,11 @@ Resources:
 
 > All bits of DBArchive solution are looking forward.
 
-**Contact** me via <a href="https://www.linkedin.com/in/tomasmalukas" target="_blank">LinkedIn</a>, <a href="mailto:tomas.malukas.work@gmail.com?Subject=DBArchive" target="_top">e-mail</a> or send a comment:  
-<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLScejPiq9yLj1hyQjFAkQCLBaZhAE_lLcitoONIr5FO0Ib6j8g/formResponse" target="hidden_iframe" onsubmit="submitted=true;">
-  <input type="text" placeholder="Name" name="entry.1175739595" id="entry.1175739595" size="20" required>
-  <input type="email" placeholder="Email" name="entry.225799204" id="entry.225799204" size="30" required>
-  <textarea placeholder="Enter your comment" name="entry.207423772" id="entry.207423772" cols="60" rows="10" required></textarea>
+**Contact** me via <a href="https://www.linkedin.com/in/tomasmalukas" target="_blank">LinkedIn</a>, <a href="mailto:tomas.malukas.develop@gmail.com?Subject=DBArchive" target="_top">e-mail</a> or send a comment:  
+<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLScAnUAANpQKGYleDWjO8ggGZFJDAjJwp_8UbV9dqMZyzrxkqQ/formResponse" target="hidden_iframe" onsubmit="submitted=true;">
+  <input type="text" placeholder="Name" name="entry.960960063" id="entry.960960063" size="20" required>
+  <input type="email" placeholder="Email" name="entry.2015724244" id="entry.2015724244" size="30" required>
+  <textarea placeholder="Enter your comment" name="entry.310681452" id="entry.310681452" cols="60" rows="10" required></textarea>
   <input type="submit" value="Send Message" id="SubmitButton">
   <input type="reset" value="Reset">  
 </form>
