@@ -1,6 +1,6 @@
->Hey, do you have <a href="https://en.wikipedia.org/wiki/Multitier_architecture#Three-tier_architecture" target="_blank">3-tier application</a> and you want **globaly improve performance by up to 95%** and **save expensive database storage up to 85%**? I bet – yes! Wait... 95% improvement and globally? - "No way, cannot be true!". Well, let me prove that this is real - go for <a href="DbArchive.pdf" target="_blank">this white paper</a> and read about [How DBArchive Solution Works] at <a href="DbArchive.pdf" target="_blank">pages 7-9.</a>
+>Hey, do you have <a href="https://en.wikipedia.org/wiki/Multitier_architecture#Three-tier_architecture" target="_blank">3-tier application</a> and you want **globaly improve performance by up to 95%** and **save expensive database storage up to 85%**? I bet – yes! Wait... 95% improvement and globally? - "No way, cannot be true!". Well, let me prove that this is real - go for <a href="DbArchive.pdf" target="_blank">this white paper</a> and read about [How DBArchive Solution Works] at <a href="DbArchive.pdf" target="_blank">pages 7-8.</a>
 
->Want to know more about what **additional business values** you can get? No problem, look at <a href="DbArchive.pdf" target="_blank">page 19</a> and read section [DBArchive Delivers Business Value].
+>Want to know more about what **additional business values** you can get? No problem, look at <a href="DbArchive.pdf" target="_blank">page 18</a> and read section [DBArchive Delivers Business Value].
 
 >And you more likely want a visual confirmation, not reading papers – we think the same! I’ve recorded <a href="DbArchive.pdf" target="_blank">demo</a> for you, so do not wait any longer just <a href="DbArchive.pdf" target="_blank">**click**</a> and see **how everything plays together.**
 
@@ -9,7 +9,7 @@ Solution main points:
 2. **TOP priorities.** Production database without inactive historical data generates all types of benefits such as better user experience, global performance improvement and expensive resource savings. These are the top priorities of DBArchive solution;
 3. **Resources.** DbArchive intentionally was developed to be simple yet powerful solution which uses as minimum resource as possible in client side;
 4. **Demo.** Solution demo contains related 23 tables filled with random data sets (total records 12 million). By provided “2 years and older” archiving filter and after completed first iteration we can see **increased database query execution performance by 99% and database storage space gained by 99%;**
-5. **Results.** All presented numbers are related to my workstation hardware specifics. These specifics are listed in the last section of white paper at <a href="DbArchive.pdf" target="_blank">page 21.</a>
+5. **Results.** All presented numbers are related to my workstation hardware specifics. These specifics are listed in the last section of white paper at <a href="DbArchive.pdf" target="_blank">page 20.</a>
 
 Resources:
 1. White paper is <a href="DbArchive.pdf" target="_blank">here</a>
