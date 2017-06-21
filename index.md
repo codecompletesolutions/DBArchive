@@ -2,7 +2,7 @@
 
 >Want to know more about what **additional business values** you can get? No problem, look at <a href="DbArchive.pdf" target="_blank">page 18</a> and read section [DBArchive Delivers Business Value].
 
->And you more likely want a visual confirmation, not reading papers – we think the same! I’ve recorded demo for you, so do not wait any longer just <a href="DbArchive.pdf" target="_blank">click</a> and see how everything plays together.
+>And you more likely want a visual confirmation, not reading papers – we think the same! I’ve recorded demo for you, so do not wait any longer just click and see how everything plays together (will be soon).
 
 Solution key points:
 1. **Term.** DbArchive solution stands for dynamic, granular historical data move process (archiving) and improved global application performance. More solution capabilities could be found in white paper section [Overview] at <a href="DbArchive.pdf" target="_blank">page 3</a>;
