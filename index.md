@@ -13,7 +13,7 @@ Solution key points:
 
 Resources:
 1. White paper is <a href="DbArchive.pdf" target="_blank">here</a>
-2. Recorded demo is (on construction)
+2. Recorded demo is here (will be soon)
 
 > All bits of DBArchive solution are looking forward.
 
